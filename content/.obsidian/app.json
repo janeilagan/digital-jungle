@@ -3,17 +3,18 @@
   "spellcheckLanguages": null,
   "trashOption": "system",
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./attachments",
   "mobileToolbarCommands": [
-    "command-palette:open",
+    "editor:toggle-keyboard",
     "editor:paste",
     "editor:cut",
     "editor:copy",
+    "editor:undo",
+    "editor:redo",
     "editor:insert-wikilink",
     "editor:insert-embed",
-    "editor:insert-tag",
     "editor:attach-file",
     "editor:set-heading",
     "editor:toggle-bold",
@@ -28,11 +29,8 @@
     "editor:toggle-checklist-status",
     "editor:indent-list",
     "editor:unindent-list",
-    "editor:undo",
-    "editor:redo",
-    "editor:toggle-keyboard",
     "editor:configure-toolbar"
   ],
   "promptDelete": false,
-  "newFileFolderPath": "15 private"
+  "newFileFolderPath": "12 inbox"
 }

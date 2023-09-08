@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../repos/obsidian-zola"
+		}
+	],
+	"settings": {
+		"hide-files.files": []
+	}
+}

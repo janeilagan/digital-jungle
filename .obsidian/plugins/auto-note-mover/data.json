@@ -1,0 +1,39 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "00 index",
+      "tag": "#index",
+      "pattern": ""
+    },
+    {
+      "folder": "14 published",
+      "tag": "#published",
+      "pattern": ""
+    },
+    {
+      "folder": "15 private",
+      "tag": "#private",
+      "pattern": ""
+    },
+    {
+      "folder": "16 work",
+      "tag": "#work",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "11 templates"
+    },
+    {
+      "folder": "12 inbox"
+    },
+    {
+      "folder": "13 daily"
+    }
+  ]
+}

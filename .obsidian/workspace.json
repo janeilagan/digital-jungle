@@ -4,15 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "7c279a0f869938bf",
+        "id": "25a990f536c00b99",
         "type": "tabs",
         "children": [
           {
-            "id": "9fa719bf7b7ed2b1",
+            "id": "8a2fe5613cc74ba1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "14 published/linked thoughts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5985754674b27ffa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14 published/00.01 Configuring Quartz 4.0.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -60,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "14 published/linked thoughts.md"
+              }
             }
           }
         ]
@@ -87,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "14 published/linked thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,16 +124,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "14 published/linked thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 379.5
   },
   "right": {
     "id": "82ec9cb7ee30aeb7",
@@ -121,7 +144,7 @@
       {
         "id": "30690daf2a0aafa6",
         "type": "tabs",
-        "dimension": 30.620155038759684,
+        "dimension": 27.034883720930235,
         "children": [
           {
             "id": "a66db1b6b869e27e",
@@ -137,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "25.21",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,12 +173,12 @@
         "currentTab": 1
       },
       {
-        "id": "30c03df10630af2f",
+        "id": "8bc86e9231fd12ba",
         "type": "tabs",
-        "dimension": 69.37984496124031,
+        "dimension": 72.96511627906976,
         "children": [
           {
-            "id": "dbfae1dd36494606",
+            "id": "4727a64ae5949e21",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -185,39 +208,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9fa719bf7b7ed2b1",
+  "active": "8a2fe5613cc74ba1",
   "lastOpenFiles": [
-    "14 published/Learn that im not in a spotlight.md",
-    "14 published/if someones criticism got into me.md",
-    "14 published/the less we are able to express the more unwell we get.md",
-    "14 published/dont let fear control your life.md",
-    "14 published/try not to be a total worker.md",
-    "14 published/Dunning-Kruger Effect.md",
-    "14 published/imposter syndrome.md",
-    "14 published/Microsoft Defender for Identity.md",
-    "14 published/Defender Alerts Playbook and Management.md",
-    "14 published/SC-200.md",
-    "14 published/Things I learned about myself.md",
-    "14 published/Configuring Quartz.md",
-    "home.md",
-    "16 work/Advara Defender for Endpoint.md",
-    "00 index/00.00 index.md",
-    "16 work/AHC Defender for Identity.md",
-    "14 published/Remote Calls to SAM.md",
-    "about.md",
-    "14 published/digital jungle.md",
+    "14 published/00.01 Configuring Quartz 4.0.md",
     "14 published/linked thoughts.md",
     "14 published/wild search for building my garden.md",
-    "00 index/00.01 obsidian setup.md",
-    "14 published/Sharing specific obsidian notes with screenshots.md",
-    "14 published/some poetry i wrote when i was young.md",
-    "14 published/The Four Agreements.md",
-    "14 published/The process of getting to know myself.md",
+    "14 published/Git Subtree.md",
+    "index.md",
+    "14 published/Configuring Quartz 3.0.md",
+    "14 published/SC-200.md",
+    "14 published/25.21 Event error codes Defender for endpoint.md",
+    "14 published/25.23 Enable or disable hyperlink warning in Office Apps.md",
+    "14 published/39.01 Table of contents for PowerPoint.md",
+    "14 published/25.23 Microsoft 365 F3 + Microsoft 365 Apps for Enterprise.md",
+    "12 inbox/27.19 Hybrid AD Join via Always On VPN.md",
+    "12 inbox/create an emergency kit.md",
+    "12 inbox/Editing vs writing.md",
+    "12 inbox/Free File Sync.md",
+    "12 inbox/How to life.md",
+    "12 inbox/Ideas of life.md",
+    "12 inbox/if I don’t want to do something, it’s okay because it’s me setting up boundaries.md",
+    "12 inbox/Schedule a time to clean your inbox.md",
+    "12 inbox/Scratch paper.md",
+    "19 wasteland/update ios username on anytime fitness review.md",
+    "12 inbox/Veracrypt.md",
+    "16 work/Reviewing Logs from Application.md",
+    "00 index/00.00 index.md",
+    "16 work/28.16 Sharepoint alert.md",
+    "12 inbox/00.01 Configuring Quartz 4.0(1).md",
+    "11 inbox",
     "16 work/25.01 Quarterly Health Report.canvas",
     "15 private/25.29 Flowchart.canvas",
     "00 index/attachments/Pasted image 20230413135513.png",
@@ -239,7 +261,6 @@
     "15 private/attachments",
     "16 work/attachments",
     "14 published/attachments",
-    "14 notes",
-    "attachmentss"
+    "14 notes"
   ]
 }

@@ -1,140 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Learn that im not in a spotlight",
-      "path": "14 published/Learn that im not in a spotlight.md"
-    },
-    {
-      "basename": "if someones criticism got into me",
-      "path": "14 published/if someones criticism got into me.md"
-    },
-    {
-      "basename": "the less we are able to express the more unwell we get",
-      "path": "14 published/the less we are able to express the more unwell we get.md"
-    },
-    {
-      "basename": "dont let fear control your life",
-      "path": "14 published/dont let fear control your life.md"
-    },
-    {
-      "basename": "try not to be a total worker",
-      "path": "14 published/try not to be a total worker.md"
-    },
-    {
-      "basename": "Dunning-Kruger Effect",
-      "path": "14 published/Dunning-Kruger Effect.md"
-    },
-    {
-      "basename": "imposter syndrome",
-      "path": "14 published/imposter syndrome.md"
-    },
-    {
-      "basename": "Microsoft Defender for Identity",
-      "path": "14 published/Microsoft Defender for Identity.md"
-    },
-    {
-      "basename": "Defender Alerts Playbook and Management",
-      "path": "14 published/Defender Alerts Playbook and Management.md"
-    },
-    {
-      "basename": "SC-200",
-      "path": "14 published/SC-200.md"
-    },
-    {
-      "basename": "Things I learned about myself",
-      "path": "14 published/Things I learned about myself.md"
-    },
-    {
-      "basename": "Configuring Quartz",
-      "path": "14 published/Configuring Quartz.md"
-    },
-    {
-      "basename": "home",
-      "path": "home.md"
-    },
-    {
-      "basename": "Advara Defender for Endpoint",
-      "path": "16 work/Advara Defender for Endpoint.md"
-    },
-    {
-      "basename": "00.00 index",
-      "path": "00 index/00.00 index.md"
-    },
-    {
-      "basename": "AHC Defender for Identity",
-      "path": "16 work/AHC Defender for Identity.md"
-    },
-    {
-      "basename": "Remote Calls to SAM",
-      "path": "14 published/Remote Calls to SAM.md"
-    },
-    {
-      "basename": "about",
-      "path": "about.md"
-    },
-    {
       "basename": "linked thoughts",
       "path": "14 published/linked thoughts.md"
+    },
+    {
+      "basename": "00.01 Configuring Quartz 4.0",
+      "path": "14 published/00.01 Configuring Quartz 4.0.md"
     },
     {
       "basename": "wild search for building my garden",
       "path": "14 published/wild search for building my garden.md"
     },
     {
-      "basename": "00.01 obsidian setup",
-      "path": "00 index/00.01 obsidian setup.md"
+      "basename": "Git Subtree",
+      "path": "14 published/Git Subtree.md"
     },
     {
-      "basename": "Sharing specific obsidian notes with screenshots",
-      "path": "14 published/Sharing specific obsidian notes with screenshots.md"
+      "basename": "index",
+      "path": "index.md"
     },
     {
-      "basename": "some poetry i wrote when i was young",
-      "path": "14 published/some poetry i wrote when i was young.md"
+      "basename": "Configuring Quartz 3.0",
+      "path": "14 published/Configuring Quartz 3.0.md"
     },
     {
-      "basename": "The Four Agreements",
-      "path": "14 published/The Four Agreements.md"
+      "basename": "SC-200",
+      "path": "14 published/SC-200.md"
     },
     {
-      "basename": "The process of getting to know myself",
-      "path": "14 published/The process of getting to know myself.md"
+      "basename": "25.21 Event error codes Defender for endpoint",
+      "path": "14 published/25.21 Event error codes Defender for endpoint.md"
     },
     {
-      "basename": "questioning my abilities",
-      "path": "14 published/questioning my abilities.md"
-    },
-    {
-      "basename": "Cant get to work locally for testing",
-      "path": "14 published/Cant get to work locally for testing.md"
-    },
-    {
-      "basename": "2023-08-25",
-      "path": "13 daily/2023-08-25.md"
-    },
-    {
-      "basename": "2023-08-24",
-      "path": "13 daily/2023-08-24.md"
-    },
-    {
-      "basename": "letters to them",
-      "path": "14 published/letters to them.md"
-    },
-    {
-      "basename": "homophobia",
-      "path": "14 published/homophobia.md"
-    },
-    {
-      "basename": "go going gone",
-      "path": "14 published/go going gone.md"
-    },
-    {
-      "basename": "Brushes of Hope",
-      "path": "14 published/Brushes of Hope.md"
-    },
-    {
-      "basename": "93 percent stardust",
-      "path": "14 published/93 percent stardust.md"
+      "basename": "25.23 Enable or disable hyperlink warning in Office Apps",
+      "path": "14 published/25.23 Enable or disable hyperlink warning in Office Apps.md"
     },
     {
       "basename": "39.01 Table of contents for PowerPoint",
@@ -145,60 +45,160 @@
       "path": "14 published/25.23 Microsoft 365 F3 + Microsoft 365 Apps for Enterprise.md"
     },
     {
-      "basename": "Loadbalancer vs Reverse Proxy vs API Gateway",
-      "path": "14 published/Loadbalancer vs Reverse Proxy vs API Gateway.md"
+      "basename": "27.19 Hybrid AD Join via Always On VPN",
+      "path": "12 inbox/27.19 Hybrid AD Join via Always On VPN.md"
     },
     {
-      "basename": "Deploying Zoom via Intune",
-      "path": "14 published/Deploying Zoom via Intune.md"
+      "basename": "create an emergency kit",
+      "path": "12 inbox/create an emergency kit.md"
     },
     {
-      "basename": "Git Subtree",
-      "path": "14 published/Git Subtree.md"
+      "basename": "Editing vs writing",
+      "path": "12 inbox/Editing vs writing.md"
     },
     {
-      "basename": "AZ-305",
-      "path": "14 published/AZ-305.md"
+      "basename": "Free File Sync",
+      "path": "12 inbox/Free File Sync.md"
     },
     {
-      "basename": "28.14 Affinity Zoom Issue",
-      "path": "16 work/28.14 Affinity Zoom Issue.md"
+      "basename": "How to life",
+      "path": "12 inbox/How to life.md"
     },
     {
-      "basename": "Defender for Office 365",
-      "path": "14 published/Defender for Office 365.md"
+      "basename": "Ideas of life",
+      "path": "12 inbox/Ideas of life.md"
     },
     {
-      "basename": "Enroll existing device to Intune",
-      "path": "14 published/Enroll existing device to Intune.md"
+      "basename": "if I don’t want to do something, it’s okay because it’s me setting up boundaries",
+      "path": "12 inbox/if I don’t want to do something, it’s okay because it’s me setting up boundaries.md"
     },
     {
-      "basename": "Stuck on Joining to network",
-      "path": "14 published/Stuck on Joining to network.md"
+      "basename": "Schedule a time to clean your inbox",
+      "path": "12 inbox/Schedule a time to clean your inbox.md"
     },
     {
-      "basename": "md-to-pdf",
-      "path": "14 published/md-to-pdf.md"
+      "basename": "Scratch paper",
+      "path": "12 inbox/Scratch paper.md"
     },
     {
-      "basename": "IntuneCD",
-      "path": "14 published/IntuneCD.md"
+      "basename": "update ios username on anytime fitness review",
+      "path": "19 wasteland/update ios username on anytime fitness review.md"
     },
     {
-      "basename": "Autopilot HAADJ",
-      "path": "14 published/Autopilot HAADJ.md"
+      "basename": "Veracrypt",
+      "path": "12 inbox/Veracrypt.md"
     },
     {
-      "basename": "Why you need to AAJ instead of HAADJ",
-      "path": "14 published/Why you need to AAJ instead of HAADJ.md"
+      "basename": "Reviewing Logs from Application",
+      "path": "16 work/Reviewing Logs from Application.md"
     },
     {
-      "basename": "Bulk-labelling SPO files using Defender for Cloud Apps",
-      "path": "14 published/Bulk-labelling SPO files using Defender for Cloud Apps.md"
+      "basename": "00.00 index",
+      "path": "00 index/00.00 index.md"
     },
     {
-      "basename": "virtual peering",
-      "path": "14 published/virtual peering.md"
+      "basename": "28.16 Sharepoint alert",
+      "path": "16 work/28.16 Sharepoint alert.md"
+    },
+    {
+      "basename": "28.07 ACSQ Defender Alert",
+      "path": "16 work/28.07 ACSQ Defender Alert.md"
+    },
+    {
+      "basename": "Cant get to work locally for testing",
+      "path": "14 published/Cant get to work locally for testing.md"
+    },
+    {
+      "basename": "welcome email accounts",
+      "path": "16 work/welcome email accounts.md"
+    },
+    {
+      "basename": "jira - ticketing system",
+      "path": "16 work/jira - ticketing system.md"
+    },
+    {
+      "basename": "blueAPACHE Induction",
+      "path": "16 work/blueAPACHE Induction.md"
+    },
+    {
+      "basename": "2023-09-07",
+      "path": "13 daily/2023-09-07.md"
+    },
+    {
+      "basename": "2023-09-06",
+      "path": "13 daily/2023-09-06.md"
+    },
+    {
+      "basename": "17.00 what is this sh-",
+      "path": "17 manuals/17.00 what is this sh-.md"
+    },
+    {
+      "basename": "2023-09-05",
+      "path": "13 daily/2023-09-05.md"
+    },
+    {
+      "basename": "setting up emergency kit",
+      "path": "17 manuals/setting up emergency kit.md"
+    },
+    {
+      "basename": "18.00 what is this sh-",
+      "path": "18 enchiridion/18.00 what is this sh-.md"
+    },
+    {
+      "basename": "19.00 readme",
+      "path": "19 wasteland/19.00 readme.md"
+    },
+    {
+      "basename": "15 letters to myself template",
+      "path": "11 templates/15 letters to myself template.md"
+    },
+    {
+      "basename": "15 heatmaps template",
+      "path": "11 templates/15 heatmaps template.md"
+    },
+    {
+      "basename": "14 read somewhere template",
+      "path": "11 templates/14 read somewhere template.md"
+    },
+    {
+      "basename": "14 published template",
+      "path": "11 templates/14 published template.md"
+    },
+    {
+      "basename": "14 interesting rss template",
+      "path": "11 templates/14 interesting rss template.md"
+    },
+    {
+      "basename": "13 daily template",
+      "path": "11 templates/13 daily template.md"
+    },
+    {
+      "basename": "15 private template",
+      "path": "11 templates/15 private template.md"
+    },
+    {
+      "basename": "Create a watch again read again collection that you read every quarter",
+      "path": "19 wasteland/Create a watch again read again collection that you read every quarter.md"
+    },
+    {
+      "basename": "The process of getting to know myself",
+      "path": "14 published/The process of getting to know myself.md"
+    },
+    {
+      "basename": "31.02 people hate their own art",
+      "path": "14 published/31.02 people hate their own art.md"
+    },
+    {
+      "basename": "about",
+      "path": "about.md"
+    },
+    {
+      "basename": "20 hours idea",
+      "path": "14 published/20 hours idea.md"
+    },
+    {
+      "basename": "32.08 Kill - Original",
+      "path": "00 index/32.08 Kill - Original.md"
     }
   ],
   "omittedPaths": [],

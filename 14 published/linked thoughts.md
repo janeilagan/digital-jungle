@@ -20,6 +20,7 @@ Now, there are tons of digital gardens and second brains everywhere.
 Here are some of my favourite ones:
 
 -  [Quartz](https://quartz.jzhao.xyz/) (I almost used this too! [[Configuring Quartz 3.0]])
+	- Update 2023-09-08: Went back with Quartz - [[00.01 Configuring Quartz 4.0]]
 - [Brandon Boswell’s Garden](https://brandonkboswell.com) (he's got cool contents too!)
 - [LYT Kit](https://notes.linkingyourthinking.com) (less is absolutely more)
 - [Joschua's Notes](https://notes.joschua.io/50+Slipbox/Welcome!) (his book reviews are amazing)
@@ -30,5 +31,4 @@ In my [[wild search for building my garden]] in hopes I will end up with the [[b
 
 As this is a jungle, you may find different topics of my interests.
 
-The published version of this digital jungle is powered by [my forked version](https://github.com/janeilagan/obsidian-zola) of [obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola), and [Netlify](https://www.netlify.com/) for hosting.
-
+The published version of this digital jungle is powered by [quartz 4.0](https://github.com/jackyzha0/quartz) and GitHub Pages.

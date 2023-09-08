@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2227042127d8745c",
+        "id": "6f1bb35927cda2a8",
         "type": "tabs",
         "children": [
           {
-            "id": "f5a4b6ba617786e1",
+            "id": "efd4991e3e87a79c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13 daily/2023-08-25.md",
+                "file": "13 daily/2023-09-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,23 +66,22 @@
         }
       },
       {
-        "id": "7b5acf7df3a2397f",
-        "type": "leaf",
-        "state": {
-          "type": "bookmarks",
-          "state": {}
-        }
-      },
-      {
         "id": "ebfa608d65747ea4",
         "type": "leaf",
         "state": {
           "type": "recent-files",
           "state": {}
         }
+      },
+      {
+        "id": "02bb15451f0c3a94",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "d589a38595029811",
@@ -94,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "13 daily/2023-08-25.md",
+            "file": "13 daily/2023-09-08.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "13 daily/2023-08-25.md",
+            "file": "13 daily/2023-09-08.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "13 daily/2023-08-25.md"
+            "file": "13 daily/2023-09-08.md"
           }
         }
       },
@@ -140,8 +139,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
@@ -153,34 +150,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f5a4b6ba617786e1",
+  "active": "efd4991e3e87a79c",
   "lastOpenFiles": [
-    "13 daily/2023-08-24.md",
-    "13 daily/2023-08-25.md",
     "15 private/2023.md",
-    "13 daily/2023-08-23.md",
-    "13 daily/2023-08-22.md",
-    "13 daily/2023-08-21.md",
-    "13 daily/2023-08-20.md",
-    "13 daily/2023-08-19.md",
-    "13 daily/2023-08-18.md",
-    "13 daily/2023-08-17.md",
-    "13 daily/2023-08-16.md",
-    "13 daily/2023-08-15.md",
-    "13 daily/2023-08-14.md",
-    "13 daily/2023-08-13.md",
-    "13 daily/2023-08-12.md",
-    "13 daily/2023-08-11.md",
-    "13 daily/2023-08-10.md",
-    "13 daily/2023-08-09.md",
-    "13 daily/2023-08-08.md",
-    "13 daily/2023-08-06.md",
-    "13 daily/2023-08-05.md",
-    "13 daily/2023-08-07.md",
-    "13 daily/2023-08-04.md",
-    "13 daily/2023-08-03.md",
-    "13 daily/2023-08-02.md",
+    "13 daily/2023-09-08.md",
+    "13 daily/2023-09-07.md",
+    "11 inbox/blueAPACHE.md",
+    "11 inbox",
+    "14 published/Configuring Quartz 3.0.md",
+    "12 inbox/25.23 Enable or disable hyperlink warning in Office Apps.md",
+    "12 inbox/00.01 Configuring Quartz 4.0.md",
+    "12 inbox/Reviewing Logs from Application.md",
+    "14 published/linked thoughts.md",
+    "home.md",
+    "13 daily/2023-09-06.md",
     "00 index/00.00 index.md",
+    "13 daily/2023-09-05.md",
+    "13 daily/2023-09-04.md",
+    "12 inbox/Editing vs writing.md",
+    "12 inbox/create an emergency kit.md",
+    "about.md",
+    "12 inbox/Create a watch again read again collection that you read every quarter.md",
+    "15 private/Untitled.canvas",
+    "15 private/202309032154.md",
+    "13 daily/2023-08-30.md",
+    "13 daily/2023-08-29.md",
+    "13 daily/2023-08-31.md",
+    "14 published/Review ASR Policies.md",
+    "12 inbox/Schedule a time to clean your inbox.md",
+    "12 inbox/Ideas of life.md",
+    "13 daily/2023-09-03.md",
     "15 private/25.29 Flowchart.canvas",
     "16 work/25.01 Quarterly Health Report.canvas",
     "16 work/attachments/Pasted image 20230705141719.png",

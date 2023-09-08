@@ -1,0 +1,13 @@
+{
+  "pinned": [
+    "workspace:close",
+    "daily-notes",
+    "templater-obsidian:insert-templater",
+    "templater-obsidian:create-new-note-from-template",
+    "switcher:open",
+    "bookmarks:open",
+    "global-search:open",
+    "editor:open-search",
+    "app:delete-file"
+  ]
+}

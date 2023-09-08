@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "d41fc18a6a1273fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c279a0f869938bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fa719bf7b7ed2b1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50c1ceac6559fa2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4020c7feae639682",
+        "type": "tabs",
+        "dimension": 58.720930232558146,
+        "children": [
+          {
+            "id": "8bdc471bc75f9b41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b64aff431e400ebb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "4bdda9160e7c6067",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "91cf89a74419b9c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "4e2d2a2fe49fa2ff",
+        "type": "tabs",
+        "dimension": 41.27906976744186,
+        "children": [
+          {
+            "id": "fe56ab993a751dc4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "68ddf954583046a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3eb47d7caf08e59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "right": {
+    "id": "82ec9cb7ee30aeb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "30690daf2a0aafa6",
+        "type": "tabs",
+        "dimension": 30.620155038759684,
+        "children": [
+          {
+            "id": "a66db1b6b869e27e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4067450aa89d2c5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "25.21",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "30c03df10630af2f",
+        "type": "tabs",
+        "dimension": 69.37984496124031,
+        "children": [
+          {
+            "id": "dbfae1dd36494606",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 index/00.00 index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 416.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "9fa719bf7b7ed2b1",
+  "lastOpenFiles": [
+    "14 published/Learn that im not in a spotlight.md",
+    "14 published/if someones criticism got into me.md",
+    "14 published/the less we are able to express the more unwell we get.md",
+    "14 published/dont let fear control your life.md",
+    "14 published/try not to be a total worker.md",
+    "14 published/Dunning-Kruger Effect.md",
+    "14 published/imposter syndrome.md",
+    "14 published/Microsoft Defender for Identity.md",
+    "14 published/Defender Alerts Playbook and Management.md",
+    "14 published/SC-200.md",
+    "14 published/Things I learned about myself.md",
+    "14 published/Configuring Quartz.md",
+    "home.md",
+    "16 work/Advara Defender for Endpoint.md",
+    "00 index/00.00 index.md",
+    "16 work/AHC Defender for Identity.md",
+    "14 published/Remote Calls to SAM.md",
+    "about.md",
+    "14 published/digital jungle.md",
+    "14 published/linked thoughts.md",
+    "14 published/wild search for building my garden.md",
+    "00 index/00.01 obsidian setup.md",
+    "14 published/Sharing specific obsidian notes with screenshots.md",
+    "14 published/some poetry i wrote when i was young.md",
+    "14 published/The Four Agreements.md",
+    "14 published/The process of getting to know myself.md",
+    "16 work/25.01 Quarterly Health Report.canvas",
+    "15 private/25.29 Flowchart.canvas",
+    "00 index/attachments/Pasted image 20230413135513.png",
+    "16 work/attachments/Pasted image 20230710155036.png",
+    "15 private/attachments/236bc42c0e6cd4cd958f21719021084e_MD5.png",
+    "15 private/attachments/IMG_8544.png",
+    "15 private/attachments/d28f6b354611cd2251e1ec80b3243269.png",
+    "16 work/attachments/Pasted image 20230705141839.png",
+    "16 work/attachments/Pasted image 20230705141730.png",
+    "16 work/attachments/Pasted image 20230705141719.png",
+    "16 work/attachments/Pasted image 20230705141705.png",
+    "15 private/25.01 Export-Licenses.ps1.canvas",
+    "00 index/attachments",
+    "16 work/attachments/f61e790f0b8890b7e3435b5655fd33fb.png",
+    "16 work/attachments/cdec93648e3cf02c09732b63e0cb8478.xlsx",
+    "16 work/attachments/b5a23aed42a12611379a2c7472224281.xlsx",
+    "16 work/attachments/593b68a49870895ec89bf2b1bfa77358.xlsx",
+    "16 work/attachments/6b0ed6d16e50d548d555765f45b441c1.xlsx",
+    "15 private/attachments",
+    "16 work/attachments",
+    "14 published/attachments",
+    "14 notes",
+    "attachmentss"
+  ]
+}

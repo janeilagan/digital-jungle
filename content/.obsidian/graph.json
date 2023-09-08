@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#private",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#work",
+      "color": {
+        "a": 1,
+        "rgb": 1523155
+      }
+    },
+    {
+      "query": "tag:#published",
+      "color": {
+        "a": 1,
+        "rgb": 13984438
+      }
+    },
+    {
+      "query": "tag:#daily",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.682291666666667,
+  "repelStrength": 10.7291666666667,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.1714125332904253,
+  "close": false
+}

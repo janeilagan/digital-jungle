@@ -25,9 +25,7 @@ As part of the report still needs manual intervention (I know, I wish it's fully
 Default way of running the report will be supervised mode, and will require authentication to **Exchange Online** using at least **Global Reader.**
 
 ```powershell
-
 .\New-M365HealthReport.ps1 -CustomerName $CustomerName -TenantID $TenantID -AppID $AppID -AppSecret $AppSecret
-
 ``` 
 
 All Report files will be stored in the `C:\Temp\M365 Health Reports\CustomerName` folder in this same location.
@@ -36,9 +34,7 @@ All Report files will be stored in the `C:\Temp\M365 Health Reports\CustomerName
 If it's prefer to use a different path, call the script with the `-ExportFolder` switch.
 
 ```powershell
-
 .\New-M365HealthReport.ps1 -CustomerName $CustomerName -TenantID $TenantID -AppID $AppID -AppSecret $AppSecret -ExportFolder "C:\temp\Folder Name here"
-
 ```
 
 This will prompt for authentication, then run the script.
@@ -66,7 +62,6 @@ Once confirmed that all data has been gathered and all manual sections are updat
 
 ```powershell
 .\New-M365HealthReport.ps1 -CustomerName $CustomerName -Build
-
 ```
 
 ## Generating an app registration

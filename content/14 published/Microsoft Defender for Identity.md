@@ -15,7 +15,6 @@ UP NEXT:
 - [x] ⏫ migrate the server roles - remaining 15 days before server expires ✅ 2022-10-28
 - [x] download sensor ✅ 2022-10-28
 
-Setting up PGJILAB | [General How Tos](onenote:https://d.docs.live.net/b7d16696854446dc/Documents/Notebooks/Upskilling/JILAB/General%20How%20Tos.one#section-id={3445A6EF-9B2B-42B6-BC09-9E056EF03F95}&end)  ([Web view](https://onedrive.live.com/view.aspx?resid=B7D16696854446DC%213573&id=documents&wd=target%28JILAB%2FGeneral%20How%20Tos.one%7C3445A6EF-9B2B-42B6-BC09-9E056EF03F95%2F%29))
 
 ## Installing Sensor
 
@@ -45,34 +44,7 @@ SEE: [desired result](https://learn.microsoft.com/en-us/defender-for-identity/co
 
 Resource: [How to implement Defender for Identity and configure all prerequisites (jeffreyappel.nl)](https://jeffreyappel.nl/how-to-implement-defender-for-identity-and-configure-all-prerequisites/)
 
-Note: Need to wait 10 hours before creating the gMSA account
-
-Create: 
-```powershell
-New-ADServiceAccount -Name MDIGMSA -DNSHostName MDIGMSA.m365securitylab.local –Description "Microsoft Defender for Identity service account" –KerberosEncryptionType AES256 –ManagedPasswordIntervalInDays 30
-```
-
-Get gMSA details:
-
-```powershell
-Get-ADServiceAccount MDIGMSA -Properties * | fl DNSHostName, SamAccountName, KerberosEncryptionType, ManagedPasswordIntervalInDays, PrincipalsAllowedToRetrieveManagedPassword
-```
-
-Set Principals
-
-```powershell
-Set-ADServiceAccount -Identity MDIGMSA -PrincipalsAllowedToDelegateToAccount 'Domain Controllers'
-```
-
-Get gMSA details again, then test the service account
-
-Test AD Service account
-
-```powershell
-Test-ADServiceAccount -Identity 'MDIGMSA'
-```
-
-
+[[25.20 Creating gMSA Accounts for MDI]]
 ### Onboard the sensor
 
 Add Directory Service account 
@@ -105,4 +77,4 @@ Add sensitive users
 ![f2a264b6c64aa77aa8b607328fbb2864](https://i.imgur.com/heV2ror.png)
 
 - Configure [[Remote Calls to SAM]]
-- [[AHC Defender for Identity]]
+- [[25.20 Lessons learned from deployment]]

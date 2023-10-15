@@ -19,8 +19,7 @@ Now, there are tons of digital gardens and second brains everywhere.
 
 Here are some of my favourite ones:
 
--  [Quartz](https://quartz.jzhao.xyz/) (I almost used this too! [[Configuring Quartz 3.0]])
-	- Update 2023-09-08: Went back with Quartz - [[00.01 Configuring Quartz 4.0]]
+-  [Quartz](https://quartz.jzhao.xyz/) (this digital garden is running using this - [[00.01 Configuring Quartz 4.0]])
 - [Brandon Boswell’s Garden](https://brandonkboswell.com) (he's got cool contents too!)
 - [LYT Kit](https://notes.linkingyourthinking.com) (less is absolutely more)
 - [Joschua's Notes](https://notes.joschua.io/50+Slipbox/Welcome!) (his book reviews are amazing)

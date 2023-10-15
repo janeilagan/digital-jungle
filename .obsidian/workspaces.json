@@ -6,20 +6,15 @@
         "type": "split",
         "children": [
           {
-            "id": "c5e2f063b77d61ac",
+            "id": "f8811115fecb760e",
             "type": "tabs",
             "children": [
               {
-                "id": "ee56316f195b8154",
+                "id": "754201ff1774c3b6",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "16 work/License - Move from e3 to e5 - Brightwater.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -67,13 +62,10 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "16 work/License - Move from e3 to e5 - Brightwater.md"
-                  }
+                  "state": {}
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           },
           {
             "id": "4e2d2a2fe49fa2ff",
@@ -97,7 +89,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "16 work/License - Move from e3 to e5 - Brightwater.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -133,7 +124,7 @@
           {
             "id": "30690daf2a0aafa6",
             "type": "tabs",
-            "dimension": 30.620155038759687,
+            "dimension": 30.620155038759684,
             "children": [
               {
                 "id": "a66db1b6b869e27e",
@@ -149,7 +140,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "28.13",
+                    "query": "",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -197,12 +188,10 @@
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
           "zk-prefixer:Create new unique note": false,
-          "workspaces:Manage workspace layouts": false,
-          "darlal-switcher-plus:Open in Headings Mode": false,
-          "darlal-switcher-plus:Open Symbols for the active editor": false
+          "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "ee56316f195b8154"
+      "active": "8bdc471bc75f9b41"
     }
   },
   "active": "zen"

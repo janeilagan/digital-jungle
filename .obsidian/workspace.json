@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "25a990f536c00b99",
+        "id": "16363e662a0dad18",
         "type": "tabs",
         "children": [
           {
-            "id": "8a2fe5613cc74ba1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14 published/linked thoughts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5985754674b27ffa",
+            "id": "91efc71dae1f40bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,7 +66,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14 published/linked thoughts.md"
+                "file": "14 published/00.01 Configuring Quartz 4.0.md"
               }
             }
           }
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14 published/linked thoughts.md",
+                "file": "14 published/00.01 Configuring Quartz 4.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14 published/linked thoughts.md",
+                "file": "14 published/00.01 Configuring Quartz 4.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 284.5
   },
   "right": {
     "id": "82ec9cb7ee30aeb7",
@@ -144,7 +131,7 @@
       {
         "id": "30690daf2a0aafa6",
         "type": "tabs",
-        "dimension": 27.034883720930235,
+        "dimension": 30.620155038759684,
         "children": [
           {
             "id": "a66db1b6b869e27e",
@@ -160,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:index/25.27.02",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,12 +160,12 @@
         "currentTab": 1
       },
       {
-        "id": "8bc86e9231fd12ba",
+        "id": "30c03df10630af2f",
         "type": "tabs",
-        "dimension": 72.96511627906976,
+        "dimension": 69.37984496124031,
         "children": [
           {
-            "id": "4727a64ae5949e21",
+            "id": "8266db724ffc93c1",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -211,56 +198,45 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8a2fe5613cc74ba1",
+  "active": "91efc71dae1f40bf",
   "lastOpenFiles": [
-    "14 published/00.01 Configuring Quartz 4.0.md",
-    "14 published/linked thoughts.md",
-    "14 published/wild search for building my garden.md",
-    "14 published/Git Subtree.md",
     "index.md",
-    "14 published/Configuring Quartz 3.0.md",
-    "14 published/SC-200.md",
-    "14 published/25.21 Event error codes Defender for endpoint.md",
-    "14 published/25.23 Enable or disable hyperlink warning in Office Apps.md",
-    "14 published/39.01 Table of contents for PowerPoint.md",
-    "14 published/25.23 Microsoft 365 F3 + Microsoft 365 Apps for Enterprise.md",
-    "12 inbox/27.19 Hybrid AD Join via Always On VPN.md",
-    "12 inbox/create an emergency kit.md",
-    "12 inbox/Editing vs writing.md",
-    "12 inbox/Free File Sync.md",
-    "12 inbox/How to life.md",
-    "12 inbox/Ideas of life.md",
-    "12 inbox/if I don’t want to do something, it’s okay because it’s me setting up boundaries.md",
-    "12 inbox/Schedule a time to clean your inbox.md",
-    "12 inbox/Scratch paper.md",
-    "19 wasteland/update ios username on anytime fitness review.md",
-    "12 inbox/Veracrypt.md",
-    "16 work/Reviewing Logs from Application.md",
+    "15 private/2023.md",
+    "12 inbox/25.27.07 Intune Patching POC.md",
+    "12 inbox/BAMS-AV-DEFEP.md",
+    "12 inbox/Configure Autopilot over VPN.md",
+    "12 inbox/delete chats.md",
+    "12 inbox/Leave Credits.md",
+    "12 inbox/Meal Prep.md",
+    "12 inbox/Passwordless.md",
+    "14 published/Change is happening.md",
     "00 index/00.00 index.md",
-    "16 work/28.16 Sharepoint alert.md",
-    "12 inbox/00.01 Configuring Quartz 4.0(1).md",
-    "11 inbox",
-    "16 work/25.01 Quarterly Health Report.canvas",
-    "15 private/25.29 Flowchart.canvas",
-    "00 index/attachments/Pasted image 20230413135513.png",
-    "16 work/attachments/Pasted image 20230710155036.png",
-    "15 private/attachments/236bc42c0e6cd4cd958f21719021084e_MD5.png",
-    "15 private/attachments/IMG_8544.png",
-    "15 private/attachments/d28f6b354611cd2251e1ec80b3243269.png",
-    "16 work/attachments/Pasted image 20230705141839.png",
-    "16 work/attachments/Pasted image 20230705141730.png",
-    "16 work/attachments/Pasted image 20230705141719.png",
-    "16 work/attachments/Pasted image 20230705141705.png",
-    "15 private/25.01 Export-Licenses.ps1.canvas",
-    "00 index/attachments",
-    "16 work/attachments/f61e790f0b8890b7e3435b5655fd33fb.png",
-    "16 work/attachments/cdec93648e3cf02c09732b63e0cb8478.xlsx",
-    "16 work/attachments/b5a23aed42a12611379a2c7472224281.xlsx",
-    "16 work/attachments/593b68a49870895ec89bf2b1bfa77358.xlsx",
-    "16 work/attachments/6b0ed6d16e50d548d555765f45b441c1.xlsx",
-    "15 private/attachments",
-    "16 work/attachments",
-    "14 published/attachments",
-    "14 notes"
+    "13 daily/2023-05-22.md",
+    "14 published/linked thoughts.md",
+    "14 published/best way to take notes.md",
+    "00 index/00.01 obsidian setup.md",
+    "13 daily/2023-10-15.md",
+    "13 daily/2023-10-14.md",
+    "15 private/kill tasks.md",
+    "16 work/Offboarding CSP Clients.md",
+    "12 inbox/27.19 Hybrid AD Join via Always On VPN.md",
+    "14 published/25.12 Windows Hello for Business.md",
+    "16 work/CUST-1086324 Polynovo Intune Design.md",
+    "sync.ffs_lock",
+    "16 work/attachments/Pasted image 20231013131907.png",
+    "12 inbox/Pasted image 20231013130932.png.md",
+    "16 work/attachments/Pasted image 20231013130932.png",
+    "16 work/attachments/Pasted image 20231013130857.png",
+    "16 work/attachments/Pasted image 20231013125355.png",
+    "16 work/attachments/Pasted image 20231013113948.png",
+    "16 work/attachments/Pasted image 20231013112826.png",
+    "16 work/attachments/Pasted image 20231013112352.png",
+    "16 work/attachments/Pasted image 20231013112320.png",
+    "16 work/attachments/Pasted image 20231013110524.png",
+    "16 work/attachments/Pasted image 20231013111827.png",
+    "16 work/25.27.02 Lighthouse.md",
+    "16 work/25.27.02 Simeon Cloud.md",
+    "16 work/25.27.02 Lighthouse vs MSP Magic vs Simeon Cloud.md",
+    "17 manuals/emergency kit and DR architecture.canvas"
   ]
 }

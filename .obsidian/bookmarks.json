@@ -8,7 +8,19 @@
     {
       "type": "file",
       "ctime": 1693053680617,
-      "path": "12 inbox/Scratch paper.md"
+      "path": "19 wasteland/Scratch paper.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1696483816587,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1696483805563,
+          "path": "12 inbox/BAMS-AV-DEFEP.md"
+        }
+      ],
+      "title": "Projects"
     }
   ]
 }

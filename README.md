@@ -5,6 +5,7 @@ This [digital jungle](https://github.com/janeilagan/digital-jungle) is powered b
 ## local testing
 
 ```git
+git checkout v4
 git subtree pull --prefix content https://github.com/janeilagan/digitaljungle.git main --squash
 npx quartz build --serve
 ```

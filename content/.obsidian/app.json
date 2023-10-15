@@ -32,5 +32,12 @@
     "editor:configure-toolbar"
   ],
   "promptDelete": false,
-  "newFileFolderPath": "12 inbox"
+  "newFileFolderPath": "12 inbox",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

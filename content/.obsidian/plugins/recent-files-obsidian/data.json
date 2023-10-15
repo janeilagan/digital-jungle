@@ -1,204 +1,116 @@
 {
   "recentFiles": [
     {
-      "basename": "linked thoughts",
-      "path": "14 published/linked thoughts.md"
-    },
-    {
       "basename": "00.01 Configuring Quartz 4.0",
       "path": "14 published/00.01 Configuring Quartz 4.0.md"
-    },
-    {
-      "basename": "wild search for building my garden",
-      "path": "14 published/wild search for building my garden.md"
-    },
-    {
-      "basename": "Git Subtree",
-      "path": "14 published/Git Subtree.md"
     },
     {
       "basename": "index",
       "path": "index.md"
     },
     {
-      "basename": "Configuring Quartz 3.0",
-      "path": "14 published/Configuring Quartz 3.0.md"
+      "basename": "2023",
+      "path": "15 private/2023.md"
     },
     {
-      "basename": "SC-200",
-      "path": "14 published/SC-200.md"
+      "basename": "25.27.07 Intune Patching POC",
+      "path": "12 inbox/25.27.07 Intune Patching POC.md"
     },
     {
-      "basename": "25.21 Event error codes Defender for endpoint",
-      "path": "14 published/25.21 Event error codes Defender for endpoint.md"
+      "basename": "BAMS-AV-DEFEP",
+      "path": "12 inbox/BAMS-AV-DEFEP.md"
     },
     {
-      "basename": "25.23 Enable or disable hyperlink warning in Office Apps",
-      "path": "14 published/25.23 Enable or disable hyperlink warning in Office Apps.md"
+      "basename": "Configure Autopilot over VPN",
+      "path": "12 inbox/Configure Autopilot over VPN.md"
     },
     {
-      "basename": "39.01 Table of contents for PowerPoint",
-      "path": "14 published/39.01 Table of contents for PowerPoint.md"
+      "basename": "delete chats",
+      "path": "12 inbox/delete chats.md"
     },
     {
-      "basename": "25.23 Microsoft 365 F3 + Microsoft 365 Apps for Enterprise",
-      "path": "14 published/25.23 Microsoft 365 F3 + Microsoft 365 Apps for Enterprise.md"
+      "basename": "Leave Credits",
+      "path": "12 inbox/Leave Credits.md"
     },
     {
-      "basename": "27.19 Hybrid AD Join via Always On VPN",
-      "path": "12 inbox/27.19 Hybrid AD Join via Always On VPN.md"
+      "basename": "Meal Prep",
+      "path": "12 inbox/Meal Prep.md"
     },
     {
-      "basename": "create an emergency kit",
-      "path": "12 inbox/create an emergency kit.md"
+      "basename": "Passwordless",
+      "path": "12 inbox/Passwordless.md"
     },
     {
-      "basename": "Editing vs writing",
-      "path": "12 inbox/Editing vs writing.md"
-    },
-    {
-      "basename": "Free File Sync",
-      "path": "12 inbox/Free File Sync.md"
-    },
-    {
-      "basename": "How to life",
-      "path": "12 inbox/How to life.md"
-    },
-    {
-      "basename": "Ideas of life",
-      "path": "12 inbox/Ideas of life.md"
-    },
-    {
-      "basename": "if I don’t want to do something, it’s okay because it’s me setting up boundaries",
-      "path": "12 inbox/if I don’t want to do something, it’s okay because it’s me setting up boundaries.md"
-    },
-    {
-      "basename": "Schedule a time to clean your inbox",
-      "path": "12 inbox/Schedule a time to clean your inbox.md"
-    },
-    {
-      "basename": "Scratch paper",
-      "path": "12 inbox/Scratch paper.md"
-    },
-    {
-      "basename": "update ios username on anytime fitness review",
-      "path": "19 wasteland/update ios username on anytime fitness review.md"
-    },
-    {
-      "basename": "Veracrypt",
-      "path": "12 inbox/Veracrypt.md"
-    },
-    {
-      "basename": "Reviewing Logs from Application",
-      "path": "16 work/Reviewing Logs from Application.md"
+      "basename": "Change is happening",
+      "path": "14 published/Change is happening.md"
     },
     {
       "basename": "00.00 index",
       "path": "00 index/00.00 index.md"
     },
     {
-      "basename": "28.16 Sharepoint alert",
-      "path": "16 work/28.16 Sharepoint alert.md"
+      "basename": "2023-05-22",
+      "path": "13 daily/2023-05-22.md"
     },
     {
-      "basename": "28.07 ACSQ Defender Alert",
-      "path": "16 work/28.07 ACSQ Defender Alert.md"
+      "basename": "linked thoughts",
+      "path": "14 published/linked thoughts.md"
     },
     {
-      "basename": "Cant get to work locally for testing",
-      "path": "14 published/Cant get to work locally for testing.md"
+      "basename": "best way to take notes",
+      "path": "14 published/best way to take notes.md"
     },
     {
-      "basename": "welcome email accounts",
-      "path": "16 work/welcome email accounts.md"
+      "basename": "00.01 obsidian setup",
+      "path": "00 index/00.01 obsidian setup.md"
     },
     {
-      "basename": "jira - ticketing system",
-      "path": "16 work/jira - ticketing system.md"
+      "basename": "kill tasks",
+      "path": "15 private/kill tasks.md"
     },
     {
-      "basename": "blueAPACHE Induction",
-      "path": "16 work/blueAPACHE Induction.md"
+      "basename": "Offboarding CSP Clients",
+      "path": "16 work/Offboarding CSP Clients.md"
     },
     {
-      "basename": "2023-09-07",
-      "path": "13 daily/2023-09-07.md"
+      "basename": "27.19 Hybrid AD Join via Always On VPN",
+      "path": "12 inbox/27.19 Hybrid AD Join via Always On VPN.md"
     },
     {
-      "basename": "2023-09-06",
-      "path": "13 daily/2023-09-06.md"
+      "basename": "25.12 Windows Hello for Business",
+      "path": "14 published/25.12 Windows Hello for Business.md"
     },
     {
-      "basename": "17.00 what is this sh-",
-      "path": "17 manuals/17.00 what is this sh-.md"
+      "basename": "CUST-1086324 Polynovo Intune Design",
+      "path": "16 work/CUST-1086324 Polynovo Intune Design.md"
     },
     {
-      "basename": "2023-09-05",
-      "path": "13 daily/2023-09-05.md"
+      "basename": "25.27.02 Lighthouse",
+      "path": "16 work/25.27.02 Lighthouse.md"
     },
     {
-      "basename": "setting up emergency kit",
-      "path": "17 manuals/setting up emergency kit.md"
+      "basename": "25.27.02 Simeon Cloud",
+      "path": "16 work/25.27.02 Simeon Cloud.md"
     },
     {
-      "basename": "18.00 what is this sh-",
-      "path": "18 enchiridion/18.00 what is this sh-.md"
+      "basename": "25.27.02 Lighthouse vs MSP Magic vs Simeon Cloud",
+      "path": "16 work/25.27.02 Lighthouse vs MSP Magic vs Simeon Cloud.md"
     },
     {
-      "basename": "19.00 readme",
-      "path": "19 wasteland/19.00 readme.md"
+      "basename": "25.27.02 MSP Magic",
+      "path": "16 work/25.27.02 MSP Magic.md"
     },
     {
-      "basename": "15 letters to myself template",
-      "path": "11 templates/15 letters to myself template.md"
+      "basename": "25.27.02 POC Success Criteria",
+      "path": "16 work/25.27.02 POC Success Criteria.md"
     },
     {
-      "basename": "15 heatmaps template",
-      "path": "11 templates/15 heatmaps template.md"
+      "basename": "How much to move to a different company",
+      "path": "19 wasteland/How much to move to a different company.md"
     },
     {
-      "basename": "14 read somewhere template",
-      "path": "11 templates/14 read somewhere template.md"
-    },
-    {
-      "basename": "14 published template",
-      "path": "11 templates/14 published template.md"
-    },
-    {
-      "basename": "14 interesting rss template",
-      "path": "11 templates/14 interesting rss template.md"
-    },
-    {
-      "basename": "13 daily template",
-      "path": "11 templates/13 daily template.md"
-    },
-    {
-      "basename": "15 private template",
-      "path": "11 templates/15 private template.md"
-    },
-    {
-      "basename": "Create a watch again read again collection that you read every quarter",
-      "path": "19 wasteland/Create a watch again read again collection that you read every quarter.md"
-    },
-    {
-      "basename": "The process of getting to know myself",
-      "path": "14 published/The process of getting to know myself.md"
-    },
-    {
-      "basename": "31.02 people hate their own art",
-      "path": "14 published/31.02 people hate their own art.md"
-    },
-    {
-      "basename": "about",
-      "path": "about.md"
-    },
-    {
-      "basename": "20 hours idea",
-      "path": "14 published/20 hours idea.md"
-    },
-    {
-      "basename": "32.08 Kill - Original",
-      "path": "00 index/32.08 Kill - Original.md"
+      "basename": "Moving (kdrama)",
+      "path": "14 published/Moving (kdrama).md"
     }
   ],
   "omittedPaths": [],

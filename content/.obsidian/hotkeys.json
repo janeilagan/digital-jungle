@@ -41,5 +41,22 @@
       ],
       "key": "-"
     }
+  ],
+  "markdown:add-metadata-property": [],
+  "insert-current-time": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ";"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }
